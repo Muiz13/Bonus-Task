@@ -2,6 +2,7 @@
   "name": "taskbonus",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Muiz13.github.io/Bonus-Task",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
